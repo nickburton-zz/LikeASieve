@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (c) 2011 Nick Burton -->
+
+<ImageView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/image_id"
+  android:layout_width="480dip"
+  android:layout_height="wrap_content"
+  android:scaleType="matrix"
+  android:background="@android:color/white">
+</ImageView>
